@@ -1,3 +1,5 @@
+file link:https://www.figma.com/design/4goKytQi2nfWJCF1UYGTOs/future-intern-task-3?node-id=0-1&t=nyjdSYA4omYfOR1F-1
+
 Here’s a **professional README file** for your **Freelancer Collaboration Platform UI/UX Design** — clean, clear, and **portfolio / GitHub ready**:
 
 ---
